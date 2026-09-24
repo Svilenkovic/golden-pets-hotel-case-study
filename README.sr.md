@@ -20,7 +20,7 @@ Nov sajt za beogradski pansion za pse malih rasa, prenet sa WordPress-a iz 2019.
 
 ## O projektu
 
-Golden Pets Hotel čuva pse do 15 kg u kući sa ograđenim dvorištem umesto u boksovima, uz nadzor 24 sata. Stari sajt je bio WordPress zamrznut u 2019. godini, složen u page builder dodatku koji je povučen zbog bezbednosnog propusta, pa se uopšte nije mogao ažurirati. Vlasnik nije želeo online rezervacije ni kontakt formu: ljudi treba da pozovu, jer pansion pre svake potvrde pita za psa.
+Golden Pets Hotel čuva pse do 15 kg u kući sa ograđenim dvorištem umesto u boksovima, uz nadzor 24 sata. Stari sajt je bio WordPress zamrznut u 2019. godini, složen u page builder dodatku koji je povučen zbog bezbednosnog propusta, pa se uopšte nije mogao ažurirati. Vlasnik nije želeo online rezervacije: ljudi treba da pozovu, jer pansion pre svake potvrde pita za psa. Kasnije je dodata i kratka forma za upit, sa rasom psa i željenim datumima.
 
 Stari sajt je u indeksu imao 139 poznatih adresa, a to je jedino što prelazak na nov sajt može da uništi za jedan dan. Glavne strane su zadržale stare putanje, 82 stare adrese preusmerene su preko mape na serveru, a za 76 ostataka, poput demo proizvoda iz prodavnice i prazne jezičke grane, server sada vraća 410 umesto preusmerenja na naslovnu. Posle prelaska sam svaku od njih proverio na živom domenu.
 

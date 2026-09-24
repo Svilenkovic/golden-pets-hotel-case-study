@@ -20,7 +20,7 @@ New site for a Belgrade boarding house for small dogs, moved off a 2019 WordPres
 
 ## About the project
 
-Golden Pets Hotel boards dogs of up to 15 kg in a house with a fenced yard instead of kennels, with someone watching them around the clock. The old site was a WordPress install frozen in 2019 and laid out with a page builder that had been withdrawn over a security hole, so it could not be updated at all. The owner wanted no online booking and no contact form: people should call, because the staff ask about the dog before confirming anything.
+Golden Pets Hotel boards dogs of up to 15 kg in a house with a fenced yard instead of kennels, with someone watching them around the clock. The old site was a WordPress install frozen in 2019 and laid out with a page builder that had been withdrawn over a security hole, so it could not be updated at all. The owner wanted no online booking: people should call, because the staff ask about the dog before confirming anything. A short inquiry form for the breed and dates came later.
 
 Search engines knew 139 addresses of the old site, and that history was the one thing a relaunch could wipe out in a day. The main pages kept their old paths, 82 old URLs were redirected through a map on the server, and 76 leftovers, such as demo shop products and an empty language branch, now return 410 instead of being pushed to the homepage. After the switch I checked every one of them on the live domain.
 
