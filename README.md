@@ -4,7 +4,7 @@
 
 New site for a Belgrade boarding house for small dogs, moved off a 2019 WordPress install with a plan for each of its 139 old URLs.
 
-**[hotelpansionzapse.com](https://www.hotelpansionzapse.com/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/golden-pets-hotel) · [Srpski](README.sr.md)
+**[hotelpansionzapse.com](https://www.hotelpansionzapse.com/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/golden-pets-hotel) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -40,7 +40,7 @@ Search engines knew 139 addresses of the old site, and that history was the one 
 | Mobile | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `LocalBusiness`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `LocalBusiness`.
 
 ## Screenshots
 
