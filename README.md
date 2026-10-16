@@ -40,7 +40,7 @@ Search engines knew 139 addresses of the old site, and that history was the one 
 | Mobile | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `LocalBusiness`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. axe accessibility check: no violations. Structured data: `LocalBusiness`.
 
 ## Screenshots
 
